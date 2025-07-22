@@ -1,0 +1,7 @@
+{
+  "name": "jj-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
